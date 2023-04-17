@@ -2,7 +2,7 @@
 
 ### 技术栈
 
-![TypeScript](https://img.shields.io/badge/types-Flow%20%7C%20TypeScript-blue)
+![TypeScript](https://img.shields.io/badge/-TypeScript-192133?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-192133?style=flat-square&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
