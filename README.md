@@ -1,5 +1,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=HaishengLiang&include_all_commits=true&count_private-true&custom_title=HaishengLiang%27%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
-
 ### 技术栈
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-192133?style=flat-square&logo=typescript&logoColor=white)
