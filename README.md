@@ -1,10 +1,12 @@
 <img align="left" src="https://github-readme-stats-woodbunny.vercel.app/api?username=HaishengLiang&include_all_commits=true&count_private=true&custom_title=HaishengLiang%27%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9&t=1">
 
-# 梁海胜 · Haisheng Liang
-全栈工程师 · IoT 与智能系统开发者 · AI 声音模型实践者
+# Haisheng Liang
+全栈工程师 · 智能系统开发者
+
 位置：中国 · 北京
 
-简短自我介绍：17年以上全栈开发经验，精通前端、后端、移动端与 IoT 硬件集成。专注于 GEO 地理信息系统、电商平台、智能体应用与 AI 声音合成模型的微调与部署。活跃于开源社区，在语音 AI (GPT-SoVITS、Bert-VITS2、fish-speech) 和智能设备控制 (小度、小智 ESP32) 领域有丰富实践。
+简短自我介绍：
+17年以上全栈开发经验，精通前端、后端、移动端与 IoT 硬件集成。专注于 电商平台、地理信息系统、智能体应用等各类场景。活跃于开源社区，在Agent开发和智能设备控制、物联网等领域有丰富实践。
 
 ---
 
