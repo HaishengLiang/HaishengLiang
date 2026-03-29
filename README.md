@@ -20,31 +20,8 @@
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-192133?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=white)
 
----
-
-### 代表项目
-
-**🤖 智能设备与 IoT**
-- [xiaodu-skill](https://github.com/HaishengLiang/xiaodu-skill) — 小度智能设备控制技能，支持 OAuth 2.0 授权、Vercel 部署
-- [xiaozhi-esp32-server](https://github.com/HaishengLiang/xiaozhi-esp32-server) — 小智 ESP32 服务器，智能硬件控制
-- [pms5003ST](https://github.com/HaishengLiang/pms5003ST) — 空气质量传感器 IoT 集成
-
-**🎙️ AI 声音模型微调**
-- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) — 深度学习声音克隆，fork 贡献
-- [Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) — BERT VITS 语音合成
-- [fish-speech](https://github.com/fishaudio/fish-speech) — 实时语音合成
-
-**📱 移动端与 GIS**
-- [iOS_MovingAnnotation_Demo](https://github.com/HaishengLiang/iOS_MovingAnnotation_Demo) — iOS 地图动态标注组件
-- [Potatso](https://github.com/HaishengLiang/Potatso) — iOS 代理客户端
-
-**💬 社交与电商**
-- [wxBot](https://github.com/HaishengLiang/wxBot) — 微信机器人框架
-- [v2ex](https://github.com/HaishengLiang/v2ex) — V2EX 社区客户端
-
----
-
 ### 开源与贡献方向
+- 智能体开发与知识工程服务
 - 智能家居设备集成与语音控制 (小度/DuerOS、小智 ESP32)
 - AI 声音模型微调、部署与实时推理优化
 - GEO 地理信息系统、iOS 移动应用开发
@@ -53,13 +30,8 @@
 ---
 
 ### 学习中 / 感兴趣
+- 本体建模理论与SDD开发
 - Rust 在嵌入式系统与工具链的应用
 - 多模态 AI 智能体架构设计
 - 实时流处理与边缘计算优化
 
----
-
-### 联系方式
-- 邮箱：[knightlhs@gmail.com](mailto:knightlhs@gmail.com)
-- 个人博客：https://blog.woodbunny.com
-- GitHub：https://github.com/HaishengLiang
